@@ -37,7 +37,7 @@ Clone & enter project
 
 
 
-command in Terminal >>  **git clone https://github.com/AbirChakraborty1703/LIFE-LINK.git**
+command in Terminal >>  **git clone https://github.com/ASingha07/Life-Link**
 
 command in Terminal >>  **cd LIFE-LINK/ITproject**
 
